@@ -1,4 +1,4 @@
-# eliteclouds-community
+# eliteclouds review | eliteclouds.com
 EliteClouds Compute Shares — invest in real GPU capacity rented to AI startups and enterprises
 EliteClouds — Verified GPU Infrastructure You Can Trust
 
